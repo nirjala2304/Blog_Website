@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+    color: rgb(21, 9, 243);
+}
+
+.container-fluid{
+    background-color: rgb(21, 9, 243);
+    padding-top: 2px;
+    padding-bottom: 2px;
+    color: white;
+    font-size: 15px;
+}
+.row{
+  margin-left: 20px;
+}
+h5{
+    color:  rgb(21, 9, 243);
+}
